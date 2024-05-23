@@ -5,7 +5,7 @@ you wish.
 
 ## Installing a package
 
-To install a package imperatively run `nix-env -if pkgs/teleport.nix`
+To install a package imperatively run `nix-env -if pkgs/package.nix`
 
 ## Install in you config
 
